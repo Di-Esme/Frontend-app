@@ -1,1 +1,1 @@
-log("App loaded.")
+console.log("App loaded.")
